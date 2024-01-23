@@ -1,1 +1,9 @@
-The main focus of this project was to create a visualization regarding red squirrels and uncover trends regarding diet and the squirrels weight.
+Certainly! Here's a refined version of your project description:
+Project Focus
+
+The primary objective of this project was to generate visualizations related to red squirrels and unveil trends concerning their diet and weight.
+Key Columns:
+
+    Sex: Distinguishes between male and female squirrels.
+    Diet: Originally labeled as 1, 2, and 3 and later changed to A, B, and C, this column represents the various diets employed in a study involving 100 squirrels.
+    Weight: Records the weight of each individual squirrel.
