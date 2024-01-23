@@ -1,0 +1,10 @@
+Objective: Our primary goal in this analysis is to identify our users behaviors and from their decide which phone plan would best suit their general use. My goal is to have a look at the 2 plans, and using a learning model determine which of the 2 plans will best suit our customers general needs.
+
+Data description
+Every observation in the dataset contains monthly behavior information about one user. The information given is as follows: 
+
+    сalls — number of calls,
+    minutes — total call duration in minutes,
+    messages — number of text messages,
+    mb_used — Internet traffic used in MB,
+    is_ultra — plan for the current month (Ultra - 1, Smart - 0).
