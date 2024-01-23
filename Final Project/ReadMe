@@ -1,10 +1,12 @@
-Atliq Database:
+Atliq Database
 
-    Product Code: Code to find a specific product
-    Product: Name of actual product
-    sold_quantity: Amount of item sold
-    category: Type of product
-    Variant: Subset of specific product
-    fiscal_year: How much was made during a specific year.
+    Product Code: Code to identify a specific product
+    Product: Name of the actual product
+    Sold Quantity: Amount of the item sold
+    Category: Type of product
+    Variant: Subset of a specific product
+    Fiscal Year: Revenue generated during a specific year
 
-Objective: Our primary goal in this analysis is to identify our users behaviors from items being sold, and how we should proceed onwards with future sales. My goal is to have a look at the various products and from there decide what we can do to improve overwall sales.
+Project Objective
+
+The primary objective of this analysis is to understand user behaviors related to the items being sold in the Atliq Database. The goal is to examine various products and derive insights to enhance overall sales. The analysis aims to inform future sales strategies and identify opportunities for improvement.
