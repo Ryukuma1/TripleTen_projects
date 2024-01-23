@@ -1,32 +1,32 @@
-This was the second project I performed for TripleTen. The main purpose of this was to show off what we learned in SQL. The following is the table information we used for the project:
+TripleTen Second Project - SQL
 
-Description of the data
-A database with info on taxi rides in Chicago:
-neighborhoods table: data on city neighborhoods
+This project, the second one undertaken at TripleTen, was designed to showcase our proficiency in SQL. The dataset utilized for the project includes information on taxi rides in Chicago. Below are the tables and their respective information:
+Neighborhoods Table
 
-    name: name of the neighborhood
-    neighborhood_id: neighborhood code
+    name: Name of the neighborhood
+    neighborhood_id: Neighborhood code
 
-cabs table: data on taxis
+Cabs Table
 
-    cab_id: vehicle code
-    vehicle_id: the vehicle's technical ID
-    company_name: the company that owns the vehicle
+    cab_id: Vehicle code
+    vehicle_id: The vehicle's technical ID
+    company_name: The company that owns the vehicle
 
-trips table: data on rides
+Trips Table
 
-    trip_id: ride code
-    cab_id: code of the vehicle operating the ride
-    start_ts: date and time of the beginning of the ride (time rounded to the hour)
-    end_ts: date and time of the end of the ride (time rounded to the hour)
-    duration_seconds: ride duration in seconds
-    distance_miles: ride distance in miles
-    pickup_location_id: pickup neighborhood code
-    dropoff_location_id: dropoff neighborhood code
+    trip_id: Ride code
+    cab_id: Code of the vehicle operating the ride
+    start_ts: Date and time of the beginning of the ride (time rounded to the hour)
+    end_ts: Date and time of the end of the ride (time rounded to the hour)
+    duration_seconds: Ride duration in seconds
+    distance_miles: Ride distance in miles
+    pickup_location_id: Pickup neighborhood code
+    dropoff_location_id: Dropoff neighborhood code
 
-weather_records table: data on weather
+Weather Records Table
 
-    record_id: weather record code
-    ts: record date and time (time rounded to the hour)
-    temperature: temperature when the record was taken
-    description: brief description of weather conditions, e.g. "light rain" or "scattered clouds"
+    record_id: Weather record code
+    ts: Record date and time (time rounded to the hour)
+    temperature: Temperature when the record was taken
+    description: Brief description of weather conditions, e.g., "light rain" or "scattered clouds"
+
