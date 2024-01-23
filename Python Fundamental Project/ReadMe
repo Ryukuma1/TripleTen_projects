@@ -1,18 +1,21 @@
-This was the first project I worked on for using Python. The following were the columns worked on:
+Project Overview
 
-Description of columns:
+This marks my initial venture into Python, and the focus was on exploring music data. The project delved into the following columns:
+Description of Columns:
 
-    'userID' — user identifier
-    'Track' — track title
-    'artist' — artist's name
-    'genre'
-    'City' — user's city
-    'time' — the exact time the track was played
-    'Day' — day of the week
+    'userID': User identifier
+    'Track': Track title
+    'Artist': Artist's name
+    'Genre'
+    'City': User's city
+    'Time': The exact time the track was played
+    'Day': Day of the week
 
-In the project, I compared the music preferences of the cities of Springfield and Shelbyville. I looked at real Yandex.Music data to test the hypotheses below and compare user behavior for these two cities.
-Hypotheses
+Project Scope
 
-    User activity differs depending on the day of the week and from city to city.
-    On Monday mornings, Springfield and Shelbyville residents listen to different genres. This is also true for Friday evenings.
-    Springfield and Shelbyville listeners have different preferences. In Springfield, they prefer pop, while Shelbyville has more rap fans.
+The project involved a comparative analysis of music preferences between the cities of Springfield and Shelbyville using real Yandex.Music data. Hypotheses were formulated and tested based on the provided dataset.
+Hypotheses:
+
+    User activity varies depending on the day of the week and differs between cities.
+    On Monday mornings and Friday evenings, residents of Springfield and Shelbyville exhibit distinct genre preferences.
+    Springfield and Shelbyville listeners display different genre preferences, with Springfield favoring pop and Shelbyville having a higher concentration of rap enthusiasts.
